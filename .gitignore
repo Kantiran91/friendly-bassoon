@@ -1,4 +1,8 @@
 .idea/
 composer.lock
 vendor/
+files/*
+!files/.gitkeep
+filters.yaml
+.env
 
