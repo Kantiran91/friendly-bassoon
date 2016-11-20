@@ -1,0 +1,10 @@
+-
+    field: from.address
+    value: full@email.com
+    comparator: equals
+    target: '/Email/Full'
+-
+    field: from.address
+    value: '@partial.email'
+    comparator: ends-with
+    target: '/Partial'
